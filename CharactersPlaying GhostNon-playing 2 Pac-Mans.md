@@ -1,0 +1,31 @@
+- Characters:
+  - Playing: Ghost
+  - Non-playing: 2 Pac-Mans
+
+- Story of The Game:
+  - Try to eat the 2 Pac-Mans before they can eat all of the yellow dots.
+
+- Rules: 
+  - 2 Lives
+  - Eating the apple in the center that comes every 30 seconds after the last one is eaten
+  - Pac-Man can eat Ghost except when the ghost has eaten the apple in the past 15 seconds
+  - Once a Pac-Man is eaten, another takes it's place
+  - Game lost if Ghost loses all 3 lives or if all the yellow dots are eaten
+  - Game won if the ghost can eat Pac-Man without losing all three lives or the all yellow dots have been eaten
+  - Do all this within 1 min 30 sec
+  - Limit of 500 yellow dots, if all are eaten, game lost
+
+- Balance:
+  - Allowing a way to stop Pac-Man and letting Pac-Man eat Ghost and Yellow Pellets
+- Adaptiveness:
+  - Many different challenges: Time Limit, Unlimited Pac-Man, Yellow Dot Limitation
+- Skills
+  - Ways to maneuver around the Pac-Man if haven't had the Apple
+  - Having to keep the Pac-Man away from the dots
+- Chance
+  - Right and Left Portals are escape routes
+- Feedback
+  - How many yellow dots are left will come out on top of the board
+  - How many lives are remaining will come in numbers
+  - How much time is remaining is supposed to show above the game
+  - The Last 3 seconds should show in the middle to warn the player of the time.
